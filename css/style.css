@@ -33,6 +33,9 @@ head{}
   list-style: none;
   float: left;
 }
+.menu ul li:last-child a{
+    padding-right: 0;
+}
 .menu ul li a{
     text-decoration: none;
     padding: 0 25px;
